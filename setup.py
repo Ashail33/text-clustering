@@ -53,7 +53,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/huggingface/text-clustering',
+    url='https://github.com/Ashail33/textclustering',
 
     # Author details
     author='lvwerra Leandro von Werra',
