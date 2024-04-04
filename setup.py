@@ -53,11 +53,11 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='',
+    url='https://github.com/huggingface/text-clustering',
 
     # Author details
-    author='',
-    author_email=''
+    author='lvwerra Leandro von Werra',
+    # author_email=''
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
