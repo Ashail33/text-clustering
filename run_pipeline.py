@@ -7,7 +7,7 @@ import pandas as pd
 from datasets import Dataset, load_dataset
 
 from src.plot_utils import plot_distributions
-from src.text_clustering import ClusterClassifier
+from src.textclustering import ClusterClassifier
 
 INSTRUCTION_SINGLE_TOPIC = "The examples below are web samples from the same cluster, identify the topic they have in common, for example: Philosophy, Lifesyle, Linear Algebra, Biochemistry, Economics...\
 Additionally determine if the topics in the examples \
